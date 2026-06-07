@@ -4182,13 +4182,31 @@
       "drive_file_id": "1I4ZLQuhvz0OtKeGTjAUZdIUuH07GU6Kv"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Animation / Comedy",
+        "project": "AI-generated comedic short story",
+        "summary": "A rotund man struggling with extreme desert heat tries various desperate cooling methods, including sitting on ice cubes and taking a bucket bath, before ultimately finding refuge inside a giant, monster-like refrigerator delivered by a helicopter.",
+        "materials": [
+          "Ice cubes",
+          "Metal bucket",
+          "Refrigerator (monster-themed)"
+        ],
+        "tools": [
+          "AI image generation software",
+          "Video editing software",
+          "Helicopter (fictional element)"
+        ],
+        "viral_hook": "How do you survive a desert heatwave when you're this hot? You won't believe his 'chill' solution!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "x_GyLT8Yyi0",
+        "uploaded_at": "2026-06-07T14:20:22.246826",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4202,6 +4220,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:20:13.706460"
     }
   },
   {
