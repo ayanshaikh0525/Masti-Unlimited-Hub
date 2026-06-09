@@ -1021,13 +1021,33 @@
       "drive_file_id": "1RpBA2Ef_yfxrCTBgF3JdOb0RP61a5Vk2"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / AI Animation",
+        "project": "Surreal AI transformation sequence",
+        "summary": "A surreal AI-generated sequence featuring a man and a cow interacting with various substances (pickles, watermelons, and red liquid) which leads to the man being consumed or transformed by the liquid, ending in a static, statue-like state.",
+        "materials": [
+          "AI-generated imagery",
+          "Digital textures",
+          "Watermelon",
+          "Pickles",
+          "Red liquid"
+        ],
+        "tools": [
+          "AI Image Generator",
+          "Video Editing Software",
+          "Animation Software"
+        ],
+        "viral_hook": "What happens when you combine AI, a cow, and too many watermelons? This bizarre transformation will leave you speechless."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "u_KIt_qpPBY",
+        "uploaded_at": "2026-06-09T06:17:09.237419",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1041,6 +1061,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:17:03.166759"
     }
   },
   {
