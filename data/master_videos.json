@@ -2059,13 +2059,29 @@
       "drive_file_id": "11tTLIoQViol1waNMiDUa1k94bViZUhEP"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / AI Parody",
+        "project": "Motu vs. Krish AI-generated boxing match",
+        "summary": "This video features a creative AI-generated parody depicting a humorous, fictional boxing match between the iconic Indian cartoon character 'Motu' and the superhero 'Krish'. The narrative follows a lighthearted scenario involving preparation, the match itself in a rural setting, and an amusing outcome where the character Motu is declared the winner.",
+        "materials": [
+          "AI-generated video frames",
+          "Digital character assets (Motu, Krish, and supporting village cast)"
+        ],
+        "tools": [
+          "AI Video Generation Software (likely Midjourney for imagery/Runway or Luma for animation)",
+          "Video Editing Software (e.g., Premiere Pro or CapCut)"
+        ],
+        "viral_hook": "Who would win in a fight: the legendary cartoon Motu or the superhero Krish? Witness the ultimate village showdown that you never knew you needed."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "CMyeHmvoq-E",
+        "uploaded_at": "2026-06-18T09:38:09.065418",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2079,6 +2095,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T09:38:04.011898"
     }
   },
   {
